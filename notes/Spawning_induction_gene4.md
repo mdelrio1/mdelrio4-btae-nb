@@ -19,13 +19,14 @@ An experiment trying to solve whether this or other genes are involved in matura
 
 ##Experimental design.
 Collect tissue from ganglia (head) and digestive glad/gonads from different degrees of maturation, from juveniles (15 mmm SL) to adult organism (80 mm SL).
-<img src= "http://content.cdlib.org/data/13030/zx/kt738nb1zx/figures/caljsiol_sio1ca175_118_021a.gif"/ width = 50%>
+<img src="http://content.cdlib.org/data/13030/zx/kt738nb1zx/figures/caljsiol_sio1ca175_118_021a.gif"/ width = 50%>
 
-![Fig. Gonad sample](http://www.asnailsodyssey.com/IMAGES/ABALONE/Rogers-BennettEtAl2004Fig.gif)
+<center><img src="http://www.asnailsodyssey.com/IMAGES/ABALONE/Rogers-BennettEtAl2004Fig.gif"><center>
 
 Induce other organisms to spawn and collect samples from the same tissues and carry out a RNA-seq. With the results compare the tissues from organisms that spawned and those which did not.
 
-![](http://www.lib.noaa.gov/retiredsites/korea/main_species/abalone.files/fsdyh009.gif)
+<center><img src="http://www.lib.noaa.gov/retiredsites/korea/main_species/abalone.files/fsdyh009.gif"/ width=70%><center>
+
 Compare transcriptomes and carry out experiments for induction 
 
 ![Fig. ](http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords=)
