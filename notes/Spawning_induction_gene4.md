@@ -7,7 +7,7 @@ Two of the biggest problems in a genetic breeding program are the induction to m
 Regulating genes (hormones?) that could induce maturation and spawning could help to geneticist to have a better plan for crossing in a genetic breeding program. 
 
 It has been found that in the red abalone, some sex related genes start their expression in organisms as small as 15-25 mm SL (Lopez-Landavery et al. submitted). Thus, if a gene or genes are found to be related with maturation induction or spawning could help in the genetic breeding programs since it would be possible to induce maturation and spawning in specific abalones.
-It seems that in *Haliotis asinina*, the APGWamide prepropeptide mRNA (York et al., unplublished, ACCESSION   JN606061) is related with ovulation and spawning.
+It seems that in *Haliotis asinina*, the APGWamide prepropeptide mRNA (York et al., unplublished, ACCESSION   JN606061) is related with ovulation and spawning. However, there are no similar sequences in the trancriptomes of male and female geoduck, *Panopea*. 
  
 ![TEKTA1](../img/Lopez-LandaveryetalNCBI_tekta1_80.jpg)
 This gene is related to a Cerebral peptide from *Aplysia californica* (blasts E=7e-38), a APGW-amide-related neuropeptide from *Mytilus edulis* (blastx E=8e-21) 
@@ -30,6 +30,7 @@ Induce other organisms to spawn and collect samples from the same tissues and ca
 Compare transcriptomes and carry out experiments for induction 
 
 <center><img src="http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords="/ width = 50%></center>
+
 
 ##References
 Lopez,E.A., Portillo,A., Gallardo,C.J. and Del Rio,M.A. (submmited) Expression of sex-specific genes in juveniles of red abalone Haliotis rufescens.
