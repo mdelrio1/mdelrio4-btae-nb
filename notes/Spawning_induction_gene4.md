@@ -31,7 +31,7 @@ Compare transcriptomes and carry out experiments for induction
 
 ![Fig. ](http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords=)
 
-<center><img src="http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords="/ width = 80%></center>
+<center><img src="http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords="/ width = 50%></center>
 
 ##References
 Lopez,E.A., Portillo,A., Gallardo,C.J. and Del Rio,M.A. (submmited) Expression of sex-specific genes in juveniles of red abalone Haliotis rufescens.
