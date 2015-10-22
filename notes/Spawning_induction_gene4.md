@@ -7,7 +7,9 @@ Regulating genes (hormones?) that could induce maturation and spawning could hel
 
 It has been found that in the red abalone, some sex related genes start their expression in organisms as small as 15-25 mm SL (Lopez-Landavery et al. submitted). Thus, if a gene or genes are found to be related with maturation induction or spawning could help
 It seems that in *Haliotis asinina*, the APGWamide prepropeptide mRNA (York et al., unplublished, ACCESSION   JN606061) is related with ovulation and spawning. 
-![](https://github.com/mdelrio1/mdelrio4-btae-nb/blob/master/img/Lopez-LandaveryetalNCBI_tecta1.png)
+![TEKTA1](../img/Lopez-LandaveryetalNCBI_tekta1.png)
+
+<img src="https://github.com/mdelrio1/mdelrio4-btae-nb/blob/master/img/Lopez-LandaveryetalNCBI_tekta1.png"
 
 This gene is related to a Cerebral peptide from *Aplysia californica* (blasts E=7e-38), a APGW-amide-related neuropeptide from *Mytilus edulis* (blastx E=8e-21) 
 
@@ -22,7 +24,7 @@ References
 Lopez,E.A., Portillo,A., Gallardo,C.J. and Del Rio,M.A. (submmited) Expression of sex-specific genes in juveniles of red abalone Haliotis rufescens
 York,P.S., Cummins,S.F., Degnan,S.M., Woodcroft,B.J. and Degnan,B.M. (Unpublished) Neuropeptide expression levels correlate with ovulation and spawning in *Haliotis asinina*. http://www.ncbi.nlm.nih.gov/nuccore/393713349
 
-
+This is the fasta file from GenbBank with the sequence from *H. assinina*
 >gi|393713349|gb|JN606061.1| Haliotis asinina APGWamide prepropeptide mRNA, complete cds
 GATCCCTCCCTCTCCAGTGGGGCTTTTTCTTTAAAACCACGATGTCTTCTTTCATAAATTCGCTCACACT
 GGGAGTTGTTGTGGTTTTAAGTGTCCTCAGTTGTAGTTTGGGAGAAGATCAAGTTGCCAGTGTAACGGGT
