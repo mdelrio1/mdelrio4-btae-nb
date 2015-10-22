@@ -13,8 +13,6 @@ This gene is related to a Cerebral peptide from *Aplysia californica* (blasts E=
 
 ![](https://github.com/mdelrio1/mdelrio4-btae-nb/blob/master/img/BlastX_hasinina.png)
 
-<img src="https://github.com/mdelrio1/mdelrio4-btae-nb/blob/master/img/Lopez-LandaveryetalNCBI_tekta1.png"
-
 
 An experiment trying to solve whether this or other genes are involved in maturation and spawning would be of great help in abalone breeding programs. So the objective of this work is to find mRNA sequences related with maturation and spawning in the red abalone.  
 
@@ -23,7 +21,7 @@ Collect tissue from ganglia and digestive glad/gonads from different degrees of 
 Induce other organisms to spawn and collect samples from the same tissues and carry out a RNA-seq. With the results compare the tissues from organisms that spawned and those which did not.  
 Compare transcriptomes and carry out experiments for induction 
 
-References
+##References
 Lopez,E.A., Portillo,A., Gallardo,C.J. and Del Rio,M.A. (submmited) Expression of sex-specific genes in juveniles of red abalone Haliotis rufescens
 York,P.S., Cummins,S.F., Degnan,S.M., Woodcroft,B.J. and Degnan,B.M. (Unpublished) Neuropeptide expression levels correlate with ovulation and spawning in *Haliotis asinina*. http://www.ncbi.nlm.nih.gov/nuccore/393713349
 
