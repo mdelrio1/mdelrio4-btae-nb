@@ -25,13 +25,13 @@ Collect tissue from ganglia (head) and digestive glad/gonads from different degr
 
 Induce other organisms to spawn and collect samples from the same tissues and carry out a RNA-seq. With the results compare the tissues from organisms that spawned and those which did not.
 
-<center><img src="http://www.lib.noaa.gov/retiredsites/korea/main_species/abalone.files/fsdyh009.gif"/ width=70%> </center>
+<center><img src="http://www.lib.noaa.gov/retiredsites/korea/main_species/abalone.files/fsdyh009.gif"/ width = 70%></center>
 
 Compare transcriptomes and carry out experiments for induction 
 
 ![Fig. ](http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords=)
 
-<center><img src="http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords=" / width =80%> </center>
+<center><img src="http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords="/ width = 80%></center>
 
 ##References
 Lopez,E.A., Portillo,A., Gallardo,C.J. and Del Rio,M.A. (submmited) Expression of sex-specific genes in juveniles of red abalone Haliotis rufescens.
