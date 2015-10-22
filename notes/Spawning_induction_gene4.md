@@ -29,8 +29,6 @@ Induce other organisms to spawn and collect samples from the same tissues and ca
 
 Compare transcriptomes and carry out experiments for induction 
 
-![Fig. ](http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords=)
-
 <center><img src="http://openi.nlm.nih.gov/imgs/512/346/3488244/3488244_gks804f5p.png?keywords="/ width = 50%></center>
 
 ##References
