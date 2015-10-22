@@ -1,4 +1,4 @@
-![](../img/Logo_cicese_mr_con_margen25.png) ![](../img/US_School_afs.png)
+![](../img/Logo_cicese_mr_con_margen25.png) 			![](../img/US_School_afs.png)
 
 #Maturation and Spawning induction Genes.
 M. A. del Rio.
@@ -9,7 +9,7 @@ Regulating genes (hormones?) that could induce maturation and spawning could hel
 It has been found that in the red abalone, some sex related genes start their expression in organisms as small as 15-25 mm SL (Lopez-Landavery et al. submitted). Thus, if a gene or genes are found to be related with maturation induction or spawning could help
 It seems that in *Haliotis asinina*, the APGWamide prepropeptide mRNA (York et al., unplublished, ACCESSION   JN606061) is related with ovulation and spawning.
  
-![TEKTA1](../img/Lopez-LandaveryetalNCBI_tekta1.png)
+![TEKTA1](../img/Lopez-LandaveryetalNCBI_tekta1_80.jpg)
 This gene is related to a Cerebral peptide from *Aplysia californica* (blasts E=7e-38), a APGW-amide-related neuropeptide from *Mytilus edulis* (blastx E=8e-21) 
 
 ![](https://github.com/mdelrio1/mdelrio4-btae-nb/blob/master/img/BlastX_hasinina.png)
