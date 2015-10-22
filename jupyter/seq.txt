@@ -1,0 +1,14 @@
+>gi|762104245|ref|XM_011436354.1| PREDICTED: Crassostrea gigas sex comb on midleg-like protein 2 (LOC105333401), transcript variant X5, mRNA
+>gi|762104243|ref|XM_011436353.1| PREDICTED: Crassostrea gigas sex comb on midleg-like protein 2 (LOC105333401), transcript variant X4, mRNA
+>gi|762104241|ref|XM_011436352.1| PREDICTED: Crassostrea gigas sex comb on midleg-like protein 2 (LOC105333401), transcript variant X3, mRNA
+>gi|762104239|ref|XM_011436351.1| PREDICTED: Crassostrea gigas sex comb on midleg-like protein 2 (LOC105333401), transcript variant X2, mRNA
+>gi|762104237|ref|XM_011436350.1| PREDICTED: Crassostrea gigas sex comb on midleg-like protein 2 (LOC105333401), transcript variant X1, mRNA
+>gi|641452824|gb|KJ599655.1| Crassostrea gigas U1 small nuclear RNA snRNA, complete sequence
+>gi|641452823|gb|KJ599654.1| Crassostrea gigas 5.8S ribosomal RNA gene, partial sequence
+>gi|663136|gb|U20340.1|CGU20340 Crassostrea gigas satellite DNA sequence, clone H1.20
+>gi|663135|gb|U20339.1|CGU20339 Crassostrea gigas satellite DNA sequence, clone F2.18
+>gi|765826540|ref|NM_001305295.1| Crassostrea gigas catenin beta-like (LOC105320742), mRNA
+>gi|619854494|gb|KJ489413.1| Crassostrea gigas doublesex protein (Dsx) mRNA, partial cds
+>gi|614501458|gb|KJ451613.1| Crassostrea gigas isolate Cg10006670 forkhead box protein H1 (FoxH1) mRNA, partial cds
+>gi|390516482|gb|JX121092.1| Crassostrea gigas beta-catenin mRNA, complete cds
+>gi|389593066|gb|JX040450.1| Crassostrea gigas SoxE mRNA, complete cds
