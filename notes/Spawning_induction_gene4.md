@@ -1,4 +1,4 @@
-![](../img/Logo_cicese_mr_con_margen25.png) 			![](../img/US_School_afs.png)
+![](../img/Logo_cicese_mr_con_margen25.png)             ![](../img/US_School_afs.png)
 
 #Maturation and Spawning induction Genes.
 M. A. del Rio.
@@ -6,7 +6,7 @@ M. A. del Rio.
 Two of the biggest problems in a genetic breeding program are the induction to maturation and to spawn. Most of the organisms do not mature under culture condition. If mature adults are found, many are induce to spawn. But not all organisms actually spawn. So the geneticist have to work with the organisms that spawn at the same time, so there is no a proper planning in crosses. 
 Regulating genes (hormones?) that could induce maturation and spawning could help to geneticist to have a better plan for crossing in a genetic breeding program. 
 
-It has been found that in the red abalone, some sex related genes start their expression in organisms as small as 15-25 mm SL (Lopez-Landavery et al. submitted). Thus, if a gene or genes are found to be related with maturation induction or spawning could help
+It has been found that in the red abalone, some sex related genes start their expression in organisms as small as 15-25 mm SL (Lopez-Landavery et al. submitted). Thus, if a gene or genes are found to be related with maturation induction or spawning could help in the genetic breeding programs since it would be possible to induce maturation and spawning in specific abalones.
 It seems that in *Haliotis asinina*, the APGWamide prepropeptide mRNA (York et al., unplublished, ACCESSION   JN606061) is related with ovulation and spawning.
  
 ![TEKTA1](../img/Lopez-LandaveryetalNCBI_tekta1_80.jpg)
@@ -19,7 +19,7 @@ An experiment trying to solve whether this or other genes are involved in matura
 
 ##Experimental design.
 Collect tissue from ganglia (head) and digestive glad/gonads from different degrees of maturation, from juveniles (15 mmm SL) to adult organism (80 mm SL).
-![Fig. ](http://content.cdlib.org/data/13030/zx/kt738nb1zx/figures/caljsiol_sio1ca175_118_021a.gif)
+<img src= "http://content.cdlib.org/data/13030/zx/kt738nb1zx/figures/caljsiol_sio1ca175_118_021a.gif"/ width = 50%>
 
 ![Fig. Gonad sample](http://www.asnailsodyssey.com/IMAGES/ABALONE/Rogers-BennettEtAl2004Fig.gif)
 
