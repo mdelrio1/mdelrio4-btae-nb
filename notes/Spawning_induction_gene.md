@@ -6,7 +6,10 @@ Two of the biggest problems in a genetic breeding program are the induction to m
 Regulating genes (hormones?) that could induce maturation and spawning could help to geneticist to have a better plan for crossing in a genetic breeding program. 
 
 It has been found that in the red abalone, some sex related genes start their expression in organisms as small as 15-25 mm SL (Lopez-Landavery et al. submitted). Thus, if a gene or genes are found to be related with maturation induction or spawning could help
-It seems that in *Haliotis asinina*, the APGWamide prepropeptide mRNA (York et al., unplublished, ACCESSION   JN606061) is related with ovulation and spawning. This gene is related to a Cerebral peptide from *Aplysia californica* (blasts E=7e-38), a APGW-amide-related neuropeptide from *Mytilus edulis* (blastx E=8e-21) 
+It seems that in *Haliotis asinina*, the APGWamide prepropeptide mRNA (York et al., unplublished, ACCESSION   JN606061) is related with ovulation and spawning. 
+![](https://github.com/mdelrio1/mdelrio4-btae-nb/blob/master/img/Lopez-LandaveryetalNCBI_tecta1.png)
+
+This gene is related to a Cerebral peptide from *Aplysia californica* (blasts E=7e-38), a APGW-amide-related neuropeptide from *Mytilus edulis* (blastx E=8e-21) 
 
 An experiment trying to solve whether this or other genes are involved in maturation and spawning would be of great help in abalone breeding programs. So the objective of this work is to find mRNA sequences related with maturation and spawning in the red abalone.  
 
