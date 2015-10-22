@@ -1,4 +1,4 @@
-#Maturation and Spawning induction Genes.
+#Maturation and Spawning induction Genes. ![](../img/Logo_cicese_mr_con_margen.png)
 M. A. del Rio.
 
 ## Introduction
