@@ -37,6 +37,7 @@ Lopez,E.A., Portillo,A., Gallardo,C.J. and Del Rio,M.A. (submmited) Expression o
 
 York,P.S., Cummins,S.F., Degnan,S.M., Woodcroft,B.J. and Degnan,B.M. (Unpublished) Neuropeptide expression levels correlate with ovulation and spawning in *Haliotis asinina*.
 
+
 This is the fasta file from GenbBank with the sequence from *H. assinina*
 http://www.ncbi.nlm.nih.gov/nuccore/393713349
 >gi|393713349|gb|JN606061.1| Haliotis asinina APGWamide prepropeptide mRNA, complete cds
