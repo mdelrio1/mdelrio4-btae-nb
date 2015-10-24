@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Session genome="http://eagle.fish.washington.edu/QPX_genome/QPX_v017.fasta" hasGeneTrack="false" hasSequenceTrack="true" locus="QPX_v017_contig_918:1-20196" path="C:\Users\curso06\Desktop\mdelrio4-btae-nb\Igv_sessions\QPX_temperature.xml" version="8">
+<Session genome="http://eagle.fish.washington.edu/QPX_genome/QPX_v017.fasta" hasGeneTrack="false" hasSequenceTrack="true" locus="QPX_v017_contig_1023:1-19919" path="C:\Users\curso06\Desktop\mdelrio4-btae-nb\Igv_sessions\QPX_temperature.xml" version="8">
     <Resources>
         <Resource path="http://eagle.fish.washington.edu/QPX_genome/QPXtrans_v1_Genome_blastn.gff"/>
         <Resource path="http://eagle.fish.washington.edu/QPX_genome/QPX_genomeCov_21_bam.bedgraph"/>
@@ -8,11 +8,11 @@
         <Resource path="http://eagle.fish.washington.edu/QPX_genome/QPX_genomeCov_10_bam.bedgraph"/>
     </Resources>
     <Panel height="217" name="DataPanel" width="1115">
-        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/QPX_genomeCov_10_bam.bedgraph" name="QPX_genomeCov_10_bam.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
-            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="678.8571" minimum="0.0" type="LINEAR"/>
+        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;750.0357055664062;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/QPX_genomeCov_10_bam.bedgraph" name="QPX_genomeCov_10_bam.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="750.0357" minimum="0.0" type="LOG"/>
         </Track>
-        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="255,0,0" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/QPX_genomeCov_21_bam.bedgraph" name="QPX_genomeCov_21_bam.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
-            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="259.82144" minimum="0.0" type="LINEAR"/>
+        <Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="255,0,0" colorScale="ContinuousColorScale;0.0;315.9285583496094;255,255,255;255,0,0" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/QPX_genomeCov_21_bam.bedgraph" name="QPX_genomeCov_21_bam.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="315.92856" minimum="0.0" type="LINEAR"/>
         </Track>
     </Panel>
     <Panel height="325" name="FeaturePanel" width="1115">
@@ -20,10 +20,10 @@
         <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;7.0;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/QPXtrans_v1_Genome_blastn.gff" name="QPXtrans_v1_Genome_blastn.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
             <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="7.0" minimum="0.0" type="LINEAR"/>
         </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/SP_QPXv017_tblastn.gff" name="SP_QPXv017_tblastn.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
         <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;8.0;255,255,255;0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/QPX_SNPtable_genome.bed" name="QPX_SNPtable_genome.bed" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count">
             <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8.0" minimum="0.0" type="LINEAR"/>
         </Track>
-        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/QPX_genome/SP_QPXv017_tblastn.gff" name="SP_QPXv017_tblastn.gff" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
     </Panel>
     <PanelLayout dividerFractions="0.3989071038251366"/>
     <HiddenAttributes>
