@@ -1,4 +1,4 @@
-![](../img/Logo_cicese_mr_con_margen25.png)              ![](../img/US_School_afs.png)
+I![](../img/Logo_cicese_mr_con_margen25.png)              ![](../img/US_School_afs.png)
 
 #Maturation and Spawning induction Genes.
 <right>M. A. del Rio.</right>
